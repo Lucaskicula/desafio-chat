@@ -16,11 +16,11 @@ Projeto fullstack com:
 ## Como rodar
 
 ### Backend
-cd back
-npm install
-npm run start:dev
+- cd back
+- npm install
+- npm run start:dev
 
 ### Frontend
-cd front
-npm install
-npm run dev
+- cd front
+- npm install
+- npm run dev
